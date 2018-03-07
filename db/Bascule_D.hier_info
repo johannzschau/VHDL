@@ -1,0 +1,6 @@
+|Bascule_D
+clk => ~NO_FANOUT~
+d => ~NO_FANOUT~
+q <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
